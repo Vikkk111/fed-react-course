@@ -1,7 +1,7 @@
 {
   "name": "fed-react-course",
   "version": "1.0.0",
-  "description": "Training material for react development.",
+  "description": "Course content for React training and assignments",
   "main": "index.js",
   "scripts": {
     "init": "npm install && cd playground && npm install",

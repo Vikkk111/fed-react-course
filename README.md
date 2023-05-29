@@ -42,7 +42,7 @@ If you do not have your SSH keys setup for GitHub please follow the [GITHUB_SSH_
 
 **Step 1:**
 
-Fork the instructor repo [here](https://github.com/Purple-Beard/FED-react-course) by following the instructions in GitHub.
+Fork the instructor repo [here](https://github.com/Purple-Beard/fed-react-course) by following the instructions in GitHub.
 
 **Step 2:**
 
@@ -108,7 +108,7 @@ export NVM_DIR="$HOME/.nvm"
 Navigate in to your locally forked repository and install the dependencies for the react playground and run the playground. Please note that `npm run init` is a custom script that installs all the dependencies required by React in the `playground` directory.
 
 ```
-cd ~/coding_bootcamp/FED-react-course
+cd ~/coding_bootcamp/fed-react-course
 npm run init
 npm run playground
 ```
