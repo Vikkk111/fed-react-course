@@ -1,0 +1,26 @@
+{
+  "name": "fed-react-course",
+  "version": "1.0.0",
+  "description": "Training material for react development.",
+  "main": "index.js",
+  "scripts": {
+    "init": "npm install && cd playground && npm install",
+    "playground": "cd playground && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purple-Beard/fed-react-course.git"
+  },
+  "keywords": [
+    "react",
+    "learn react",
+    "coding bootcamp",
+    "react examples"
+  ],
+  "author": "Suraj Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Purple-Beard/fed-react-course/issues"
+  },
+  "homepage": "https://github.com/Purple-Beard/fed-react-course#readme"
+}
