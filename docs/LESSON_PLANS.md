@@ -46,3 +46,44 @@ Lesson plans for 4 weeks of React training is as follows:
 ### Day 5
 
 - ⭐ React portfolio challenge [here](../lessons/week-01/day-05/01-portfolio-challenge/) ⭐
+
+## Week 2
+
+### Day 1
+
+- Form submission [here](../lessons/week-02/day-01/01-form-submission/)
+- Form validation [here](../lessons/week-02/day-01/02-form-validation/)
+- ⭐ Take home salary calculator challenge [here](../lessons/week-02/day-01/03-take-home-salary-calculator/) ⭐
+
+---
+
+### Day 2
+
+- Hooks - useEffect [here](../lessons/week-02/day-02/01-useEffect-hook/)
+- API call using fetch [here](../lessons/week-02/day-02/02-api-call-fetch/)
+- API call using axios [here](../lessons/week-02/day-02/03-api-call-axios/)
+- Custom hooks [here](../lessons/week-02/day-02/04-custom-hooks/)
+- ⭐ GitHub search challenge [here](../lessons/week-02/day-02/05-github-search-application/) ⭐
+
+---
+
+### Day 3
+
+- Local storage create and rea [here](../lessons/week-02/day-03/01-create-read-local-storage/)
+- Local storage update and delete [here](../lessons/week-02/day-03/02-update-delete-local-storage/)
+- ⭐ To Do application challenge [here](../lessons/week-02/day-03/03-todo-application/) ⭐
+
+---
+
+### Day 4
+
+- React router v6 navigation [here](../lessons/week-02/day-04/01-react-router-navigation/)
+- React router url and query params [here](../lessons/week-02/day-04/02-react-router-params/)
+- React router error page [here](../lessons/week-02/day-04/03-react-router-redirect/)
+- ⭐ GitHub diary application challenge [here](../lessons/week-02/day-04/04-github-diary-application/) ⭐
+
+---
+
+### Day 5
+
+- ⭐ Weather dashboard challenge [here](../lessons/week-02/day-05/01-weather-dashboard/) ⭐
