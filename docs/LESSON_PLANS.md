@@ -93,28 +93,30 @@ Lesson plans for 4 weeks of React training is as follows:
 - form submission using formik [here](../lessons/week-03/day-01/01-form-submit-formik/)
 - form validation using formik [here](../lessons/week-03/day-01/02-form-validate-formik/)
 - form validation using formik and Yup [here](../lessons/week-03/day-01/03-form-validate-formik-yup/)
-- ⭐ GitHub diary application challenge [here](../lessons/week-03/day-01/04-github-diary-application/) ⭐
 
 ---
 
 ### Day 2
 
-- ⭐ Weather dashboard challenge [here](../lessons/week-03/day-02/01-weather-dashboard/) ⭐
+- ⭐ GitHub diary application challenge [here](../lessons/week-03/day-02/01-github-diary-application/) ⭐
 
 ---
 
 ### Day 3
 
-- ⭐ User registry application challenge [here](../lessons/week-03/day-03/01-user-registry-application/) ⭐
+- material UI [here]()
+- ⭐ Weather dashboard challenge [here](../lessons/week-03/day-03/02-weather-dashboard/) ⭐
 
 ---
 
 ### Day 4
 
-TBC
+- ⭐ User registry application challenge [here](../lessons/week-03/day-04/01-user-registry-application/) ⭐
 
 ---
 
 ### Day 5
 
-TBC
+- useContext hook [here](../lessons/week-03/day-05/01-useContext-hook/)
+- useReducer hook [here](../lessons/week-03/day-05/02-useReducer-hook/)
+- material UI login [here](../lessons/week-03/day-05/03-material-ui-login/)
