@@ -104,7 +104,7 @@ Lesson plans for 4 weeks of React training is as follows:
 
 ### Day 3
 
-- material UI [here]()
+- material UI [here](../lessons/week-03/day-03/01-mui/)
 - ⭐ Weather dashboard challenge [here](../lessons/week-03/day-03/02-weather-dashboard/) ⭐
 
 ---
@@ -117,6 +117,36 @@ Lesson plans for 4 weeks of React training is as follows:
 
 ### Day 5
 
-- useContext hook [here](../lessons/week-03/day-05/01-useContext-hook/)
-- useReducer hook [here](../lessons/week-03/day-05/02-useReducer-hook/)
-- material UI login [here](../lessons/week-03/day-05/03-material-ui-login/)
+- ⭐ User registry application challenge [here](../lessons/week-03/day-04/01-user-registry-application/) ⭐
+
+## Week 4
+
+### Day 1
+
+- useContext hook [here](../lessons/week-04/day-01//01-useContext-hook/)
+- ⭐ Login challenge [here](../lessons/week-04/day-01/02-login-challenge/) ⭐
+
+---
+
+### Day 2
+
+- useReducer hook [here](../lessons/week-04/day-02/01-useReducer-hook/)
+- ⭐ Simple basket challenge hook [here](../lessons/week-04/day-02/02-simple-basket-challenge/) ⭐
+
+---
+
+### Day 3
+
+- ⭐ Amazon marketplace challenge [here](../lessons/week-04/day-03/01-amazon-marketplace/) ⭐
+
+---
+
+### Day 4
+
+- ⭐ Amazon marketplace challenge [here](../lessons/week-04/day-03/01-amazon-marketplace/) ⭐
+
+---
+
+### Day 5
+
+- Project setup and kick-off
