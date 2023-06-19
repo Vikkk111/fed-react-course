@@ -22,16 +22,7 @@ export const Login = ({ title, onSuccess, onFailure }) => {
   const onSubmit = ({ email, password }) => {
     // email and password is extracted from the formik values object
 
-    // if email or password is falsy
-    if (!email || !password) {
-      // set error with a message to trigger a re-render
-      setLoginError("Please enter an email and password");
-
-      // execute the function passed by the App to handle failure
-      onFailure();
-    }
-    // if email and password both match the expected values
-    else if (email === "bob.smith@email.com" && password === "Password123!") {
+    if (email === "bob.smith@email.com" && password === "Password123!") {
       // reset error message to remove any previous error
       setLoginError("");
 
